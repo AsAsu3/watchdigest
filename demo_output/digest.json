@@ -1,0 +1,381 @@
+{
+  "meta": {
+    "generated_at_jst": "2026-10-24 16:06 JST",
+    "data_source": "D1 キャッシュ (hidden_files/d1_raw/raw.json + closed_asc.json、取得 2026-10-24 05:40-05:43 JST)。ネットワーク不使用",
+    "alert_total": 6,
+    "data_window_end_jst": "2026-10-24 05:40 JST"
+  },
+  "disclaimer": "本ダイジェストは Polymarket の公開データ (公式 data-api) のみを用いた事実の整理です。投資助言ではありません。特定ウォレットへの追随 (コピー取引) を推奨するものでも、売買シグナルでもありません。過去の数値は将来の成果を保証しません。数値は取得時点のスナップショットであり、監査を受けた財務数値ではありません。本資料の作成には AI を使用しています。",
+  "wallets": [
+    {
+      "address": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+      "name": "BreakTheBank",
+      "theme": "政治・スポーツ、大口分割執行",
+      "baseline_verdict": "要観察（規模が再現不能）",
+      "value_usd": 3042795.2671,
+      "positions_count": 500,
+      "top_positions": [
+        {
+          "title": "Will Ipswich Town FC win on 2026-10-23?",
+          "outcome": "No",
+          "current_value": 536539.143,
+          "cash_pnl": 107442.1166,
+          "share_pct": 17.63310035352329
+        },
+        {
+          "title": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
+          "outcome": "No",
+          "current_value": 391021.3409,
+          "cash_pnl": 68207.0555,
+          "share_pct": 12.85072791876238
+        },
+        {
+          "title": "2026 Balance of Power: D Senate, D House",
+          "outcome": "Yes",
+          "current_value": 272603.0907,
+          "cash_pnl": 6662.0156,
+          "share_pct": 8.95896919676131
+        }
+      ],
+      "top1_share_pct": 17.63310035352329,
+      "closed_sample_count": 100,
+      "closed_best": {
+        "title": "Will Spain vs. Argentina end in a draw?",
+        "realized_pnl": 1409061.7121
+      },
+      "closed_worst": {
+        "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+        "realized_pnl": -918830.1596
+      },
+      "activity_count": 500,
+      "activity_span_days": 0.4,
+      "median_interval_sec": 15.0,
+      "last_trade_jst": "2026-10-24 05:34 JST",
+      "last_trade_epoch": 1792787673,
+      "sweep_share_pct": 0.0,
+      "buy_count": 469,
+      "sell_count": 31,
+      "markets_count": 24,
+      "alerts": []
+    },
+    {
+      "address": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+      "name": "RichieRicher",
+      "theme": "サッカー O/U、高分散",
+      "baseline_verdict": "要観察（単一市場 -$2.0M の損失履歴）",
+      "value_usd": 8305.939,
+      "positions_count": 7,
+      "top_positions": [
+        {
+          "title": "Vasteraas SK vs. Halmstads BK: O/U 2.5",
+          "outcome": "Over",
+          "current_value": 7852.4899,
+          "cash_pnl": 3531.4677,
+          "share_pct": 94.54066421629149
+        },
+        {
+          "title": "India Tour of New Zealand T20s: New Zealand vs India",
+          "outcome": "New Zealand",
+          "current_value": 226.2937,
+          "cash_pnl": 12.4341,
+          "share_pct": 2.724480639696487
+        },
+        {
+          "title": "Will Brøndby IF win on 2026-10-23?",
+          "outcome": "Yes",
+          "current_value": 203.9708,
+          "cash_pnl": 8.061,
+          "share_pct": 2.455722345179756
+        }
+      ],
+      "top1_share_pct": 94.54066421629149,
+      "closed_sample_count": 100,
+      "closed_best": {
+        "title": "France vs. Morocco: O/U 2.5",
+        "realized_pnl": 986544.6293
+      },
+      "closed_worst": {
+        "title": "France vs. Spain: O/U 2.5",
+        "realized_pnl": -2022868.2542
+      },
+      "activity_count": 500,
+      "activity_span_days": 6.39,
+      "median_interval_sec": 15.0,
+      "last_trade_jst": "2026-10-24 05:31 JST",
+      "last_trade_epoch": 1792787481,
+      "sweep_share_pct": 13.6,
+      "buy_count": 500,
+      "sell_count": 0,
+      "markets_count": 165,
+      "alerts": [
+        {
+          "kind": "concentration",
+          "level": "情報",
+          "text": "最大ポジションがポートフォリオ価値の 95% を占める (単一見立てへの集中)"
+        }
+      ]
+    },
+    {
+      "address": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+      "name": "wr0ngw4yb3tt0r",
+      "theme": "MLB（休止中）",
+      "baseline_verdict": "休止中（通算 -$4.1M）",
+      "value_usd": 0,
+      "positions_count": 500,
+      "top_positions": [],
+      "top1_share_pct": null,
+      "closed_sample_count": 100,
+      "closed_best": {
+        "title": "France vs. Morocco: O/U 2.5",
+        "realized_pnl": 1262215.5658
+      },
+      "closed_worst": {
+        "title": "Spurs vs. Knicks",
+        "realized_pnl": -1875345.9122
+      },
+      "activity_count": 500,
+      "activity_span_days": 0.25,
+      "median_interval_sec": 15.0,
+      "last_trade_jst": "2026-10-01 06:49 JST",
+      "last_trade_epoch": 1790804990,
+      "sweep_share_pct": 0.0,
+      "buy_count": 500,
+      "sell_count": 0,
+      "markets_count": 22,
+      "alerts": [
+        {
+          "kind": "dormant",
+          "level": "注意",
+          "text": "最終取引から 23.0 日経過 (休止の疑い)"
+        }
+      ]
+    },
+    {
+      "address": "0xa19cbababc312f9df185e49d7004c249ed1ade6b",
+      "name": "Tokor",
+      "theme": "ETH価格ラダー",
+      "baseline_verdict": "人間的（旗艦は単一見立てに集中）",
+      "value_usd": 874491.7285,
+      "positions_count": 144,
+      "top_positions": [
+        {
+          "title": "Will Ethereum dip to $2,250 by December 31, 2026?",
+          "outcome": "Yes",
+          "current_value": 480706.3214,
+          "cash_pnl": 245686.4414,
+          "share_pct": 54.96979625233814
+        },
+        {
+          "title": "Will Ethereum dip to $2,000 by December 31, 2026?",
+          "outcome": "Yes",
+          "current_value": 64807.506,
+          "cash_pnl": 8595.6344,
+          "share_pct": 7.4108769571969715
+        },
+        {
+          "title": "Will Ethereum reach $3,500 by December 31, 2026?",
+          "outcome": "No",
+          "current_value": 60021.8446,
+          "cash_pnl": 16459.87,
+          "share_pct": 6.863626337890513
+        }
+      ],
+      "top1_share_pct": 54.96979625233814,
+      "closed_sample_count": 100,
+      "closed_best": {
+        "title": "Will Bitcoin reach $78,000 September 7-13?",
+        "realized_pnl": 35144.4162
+      },
+      "closed_worst": {
+        "title": "Will Ethereum reach $2,600 in September?",
+        "realized_pnl": -22066.355
+      },
+      "activity_count": 500,
+      "activity_span_days": 3.22,
+      "median_interval_sec": 151.0,
+      "last_trade_jst": "2026-10-24 04:06 JST",
+      "last_trade_epoch": 1792782383,
+      "sweep_share_pct": 8.8,
+      "buy_count": 500,
+      "sell_count": 0,
+      "markets_count": 131,
+      "alerts": [
+        {
+          "kind": "concentration",
+          "level": "情報",
+          "text": "最大ポジションがポートフォリオ価値の 55% を占める (単一見立てへの集中)"
+        }
+      ]
+    },
+    {
+      "address": "0x252d7bae5ec87553dcafb23e275c202ac0d3c456",
+      "name": "getbipped",
+      "theme": "ETH価格ラダー（Tokorと相関）",
+      "baseline_verdict": "人間的（出来高比で薄い利益）",
+      "value_usd": 565428.2804,
+      "positions_count": 400,
+      "top_positions": [
+        {
+          "title": "Will Ethereum dip to $2,250 by December 31, 2026?",
+          "outcome": "Yes",
+          "current_value": 368803.5655,
+          "cash_pnl": 148820.9878,
+          "share_pct": 65.22552519642242
+        },
+        {
+          "title": "Will Ethereum dip to $1,250 by December 31, 2026?",
+          "outcome": "No",
+          "current_value": 23194.1552,
+          "cash_pnl": -230.2828,
+          "share_pct": 4.102050782389554
+        },
+        {
+          "title": "Will Ethereum dip to $1,000 by December 31, 2026?",
+          "outcome": "No",
+          "current_value": 19265.0275,
+          "cash_pnl": 814.6639,
+          "share_pct": 3.4071566930418427
+        }
+      ],
+      "top1_share_pct": 65.22552519642242,
+      "closed_sample_count": 100,
+      "closed_best": {
+        "title": "Will Ethereum dip to $3,000 in November?",
+        "realized_pnl": 55879.0054
+      },
+      "closed_worst": {
+        "title": "Will Ethereum dip to $3,000 in November?",
+        "realized_pnl": -57023.2638
+      },
+      "activity_count": 500,
+      "activity_span_days": 9.14,
+      "median_interval_sec": 132.0,
+      "last_trade_jst": "2026-10-24 04:31 JST",
+      "last_trade_epoch": 1792783881,
+      "sweep_share_pct": 12.0,
+      "buy_count": 500,
+      "sell_count": 0,
+      "markets_count": 66,
+      "alerts": [
+        {
+          "kind": "concentration",
+          "level": "情報",
+          "text": "最大ポジションがポートフォリオ価値の 65% を占める (単一見立てへの集中)"
+        }
+      ]
+    },
+    {
+      "address": "0x731a241767938bb23d1b2fac4c9cd2f3cea9033f",
+      "name": "CoinTrick",
+      "theme": "決済直前掃討（価格0.95以上が499/500）",
+      "baseline_verdict": "除外相当（ボット的）",
+      "value_usd": 23888.9047,
+      "positions_count": 159,
+      "top_positions": [
+        {
+          "title": "Al Qadisiyah Saudi Club vs. Al Hilal Saudi Club: O/U 2.5",
+          "outcome": "Over",
+          "current_value": 8042.2768,
+          "cash_pnl": 4.0231,
+          "share_pct": 33.66532246244006
+        },
+        {
+          "title": "Will Apple (AAPL) finish week of October 19 above $330?",
+          "outcome": "Yes",
+          "current_value": 1999,
+          "cash_pnl": 1,
+          "share_pct": 8.367901438361049
+        },
+        {
+          "title": "Will Apple (AAPL) finish week of October 19 above $320?",
+          "outcome": "Yes",
+          "current_value": 1746.9061,
+          "cash_pnl": 0.8738,
+          "share_pct": 7.312625346108899
+        }
+      ],
+      "top1_share_pct": 33.66532246244006,
+      "closed_sample_count": 100,
+      "closed_best": {
+        "title": "Will the price of Ethereum be between $2,400 and $2,500 on October 22?",
+        "realized_pnl": 75314.5936
+      },
+      "closed_worst": {
+        "title": "Tampa Bay Rays vs. New York Yankees: O/U 7.5",
+        "realized_pnl": -19968.0839
+      },
+      "activity_count": 500,
+      "activity_span_days": 0.03,
+      "median_interval_sec": 0.0,
+      "last_trade_jst": "2026-10-24 05:40 JST",
+      "last_trade_epoch": 1792788053,
+      "sweep_share_pct": 99.8,
+      "buy_count": 499,
+      "sell_count": 1,
+      "markets_count": 259,
+      "alerts": [
+        {
+          "kind": "bot_like",
+          "level": "注意",
+          "text": "中央値間隔 0秒 < 10秒 = ボット的一次フィルタに該当"
+        },
+        {
+          "kind": "sweep",
+          "level": "注意",
+          "text": "価格 0.95 以上の取引が 100% (決済直前掃討パターンの疑い)"
+        }
+      ]
+    },
+    {
+      "address": "0x56ad6bd05999e0f33ea9c05a48ccb1364a46f13e",
+      "name": "floatingraft",
+      "theme": "BTCレンジ想定（年末期限）",
+      "baseline_verdict": "人間的（通算 -$148.2K）",
+      "value_usd": 568053.4315,
+      "positions_count": 5,
+      "top_positions": [
+        {
+          "title": "Will Bitcoin reach $100,000 by December 31, 2026?",
+          "outcome": "No",
+          "current_value": 201250.2971,
+          "cash_pnl": 22013.3754,
+          "share_pct": 35.42805763334255
+        },
+        {
+          "title": "Will Bitcoin reach $95,000 by December 31, 2026?",
+          "outcome": "No",
+          "current_value": 134330.8286,
+          "cash_pnl": -564.1089,
+          "share_pct": 23.64756925159073
+        },
+        {
+          "title": "Will Bitcoin reach $110,000 by December 31, 2026?",
+          "outcome": "No",
+          "current_value": 91500.1166,
+          "cash_pnl": 6308.7296,
+          "share_pct": 16.107660217523044
+        }
+      ],
+      "top1_share_pct": 35.42805763334255,
+      "closed_sample_count": 100,
+      "closed_best": {
+        "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+        "realized_pnl": 45457.3153
+      },
+      "closed_worst": {
+        "title": "Will Bitcoin reach $85,000 by December 31, 2026?",
+        "realized_pnl": -79981.1762
+      },
+      "activity_count": 500,
+      "activity_span_days": 64.52,
+      "median_interval_sec": 156.0,
+      "last_trade_jst": "2026-10-23 23:29 JST",
+      "last_trade_epoch": 1792765767,
+      "sweep_share_pct": 0.4,
+      "buy_count": 477,
+      "sell_count": 23,
+      "markets_count": 19,
+      "alerts": []
+    }
+  ]
+}
