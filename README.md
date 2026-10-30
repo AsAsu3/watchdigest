@@ -10,8 +10,9 @@ own research). WatchDigest answers a narrower, more useful question:
 *what changed since the baseline, and is this wallet still the same kind
 of actor it used to be?*
 
-Built for the Nebius × NVIDIA Global AI Hackathon. Tracks: **Best Apps &
-Agents** and **Personal AI**.
+Built for the Nebius × NVIDIA Global AI Hackathon. Entered track:
+**Best Apps & Agents** (the submission form was single-select; Personal AI
+was planned but could not also be entered).
 
 ## How it works — detect, narrate, verify
 
